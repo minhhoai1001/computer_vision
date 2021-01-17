@@ -1,0 +1,5 @@
+https://deeplearning.vn/post/alexnet/
+
+https://pytorch.org/hub/pytorch_vision_alexnet/
+
+https://analyticsindiamag.com/implementing-alexnet-using-pytorch-as-a-transfer-learning-model-in-multi-class-classification/

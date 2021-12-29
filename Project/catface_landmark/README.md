@@ -14,7 +14,7 @@ Number of points (default is 9)
 9. Right Ear-3
 
 ## Directory Structure
-
+```
 ├─── data
 │    ├─── train
 │    ├─── val    
@@ -33,7 +33,7 @@ Number of points (default is 9)
 ├─── utils.py
 ├─── config.py
 ├─── test.py
-
+```
 
 ## Data set: [CAT Dataset](https://archive.org/details/CAT_DATASET)
 https://www.kaggle.com/crawford/cat-dataset

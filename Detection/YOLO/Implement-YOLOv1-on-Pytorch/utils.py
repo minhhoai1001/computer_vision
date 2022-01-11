@@ -269,8 +269,6 @@ def get_bboxes(loader, model, iou_threshold, threshold, pred_format="cells", box
     model.train()
     return all_pred_boxes, all_true_boxes
 
-
-
 def convert_cellboxes(predictions, S=7):
     """
     Converts bounding boxes output from Yolo with

@@ -82,7 +82,6 @@ class ResNeXt(nn.Module):
 def resnext50_32x4d():
     return ResNeXt(num_blocks=[3, 4, 6, 3], cardinality=32, bottleneck_width=4)
 
-
 # def test():
 #     net = resnext50_32x4d()
 #     print(net)
